@@ -19,5 +19,5 @@ The live price is shown using API of https://www.coingecko.com
 ![Alt text](Assests/elon-musk-tears.gif)
 
 ## Live Demo
-Checkout the live site : 
+Checkout the live site : https://souvik2376.github.io/Crypto-Price-App/
 
